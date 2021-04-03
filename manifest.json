@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Media Launcher",
+  "description": "Quick Launch of Social Media Accounts",
+  "version": "1.0.0",
+  "icons": { "128": "social_128.png" },
+  "browser_action": {
+    "default_icon": "social_12.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "storage"]
+}
