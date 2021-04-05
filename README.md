@@ -1,2 +1,2 @@
 # Chrome_Extension
-A browser extension for changing the colors in Twitter Web
+A browser extension for Accessing Social Media accounts Easily
