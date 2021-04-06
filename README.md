@@ -14,8 +14,8 @@ Go to Your Web Browser's Extension Tab and Turn on Developer Mode
 
 ### Step-3
 
-Upload your Extracted Folder by Selecting  *Load Unpacked*
+Upload your Extracted Folder by Selecting  **Load Unpacked**
 
 #### Step-4
 
-Boom...! Your Extension is Now Online Pin in to extension Bar for Quick Use...😁😁
+Boom...! Your Extension is Now Online; Pin in to extension Bar for Quick Use...😁😁
